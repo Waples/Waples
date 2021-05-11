@@ -12,6 +12,6 @@
 - Linux DevOps Engineer
 - Python Developer
 
+### Stats
 
-### Where to find me
-Streams coming soon....
+![Stats](https://github-readme-stats.vercel.app/api?username=waples&show_icons=true&theme=bear&border_radius=8&include_all_commits=true)
