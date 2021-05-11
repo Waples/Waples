@@ -15,3 +15,9 @@
 ### Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=waples&show_icons=true&theme=bear&border_radius=8&include_all_commits=true)
+
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waples&langs_count=10&theme=bear&border_radius=8)
+
+!
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waples&border_radius=8)
+
