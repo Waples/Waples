@@ -8,7 +8,7 @@
 # $(whoami)
 
 ### What I do
-- AWS Cloud Engineer
+- AWS Cloud Engineer / Solutions Architect
 - Linux DevOps Engineer
 - Python Developer
 
@@ -18,5 +18,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waples&langs_count=10&theme=bear&border_radius=8)
 
+<!-- Add when wakatime setup is done.
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waples&border_radius=8)
-
+-->
